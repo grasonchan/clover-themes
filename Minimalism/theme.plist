@@ -15,7 +15,7 @@
 			<key>Path</key>
 			<string>bg.png</string>
 			<key>Sharp</key>
-			<string>0xFF</string>
+			<string>0x0</string>
 		</dict>
 		<key>Badges</key>
 		<dict>
@@ -52,7 +52,7 @@
 			<key>Path</key>
 			<string>font.png</string>
 			<key>Proportional</key>
-			<false/>
+			<true/>
 			<key>Type</key>
 			<string>Load</string>
 		</dict>
@@ -63,7 +63,7 @@
 			<key>ChangeNonSelectedGrey</key>
 			<false/>
 			<key>Color</key>
-			<string>0xFFFFFF80</string>
+			<string>0x33333388</string>
 			<key>OnTop</key>
 			<false/>
 			<key>Small</key>
